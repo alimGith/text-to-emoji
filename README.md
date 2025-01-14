@@ -10,4 +10,3 @@ a machine learning (NLP) project that can relate text to emoji
 
 
 در فایل data دیتا ست های مورد نیاز آمده و همچنین عکسی که توضیح مختصری میدهد از پروژه
-همچنین فایل اسکرین شات توضیحی از پروژه است
